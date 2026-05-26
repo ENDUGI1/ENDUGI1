@@ -88,12 +88,22 @@
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ENDUGI1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ADECD&text_color=a1a1aa&icon_color=4ADECD&ring_color=4ADECD&rank_icon=github" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDUGI1&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ADECD&text_color=a1a1aa" />
+<!-- Pakai 2 sumber: github-readme-stats utama + fallback metrics.lecoq.io kalau yang utama down -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ENDUGI1&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4ADECD&text_color=a1a1aa&icon_color=4ADECD&ring_color=4ADECD&rank_icon=github&cache_seconds=1800" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENDUGI1&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ADECD&text_color=a1a1aa&cache_seconds=1800" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ENDUGI1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=4ADECD&fire=4ADECD&currStreakLabel=4ADECD&sideLabels=a1a1aa&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<!-- Alternative trophy display dari ryo-ma/github-profile-trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=ENDUGI1&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
